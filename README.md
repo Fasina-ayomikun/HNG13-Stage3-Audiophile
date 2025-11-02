@@ -1,4 +1,3 @@
-```md
 # Audiophile E-Commerce Website
 
 _Stage 3 Task – Frontend Wizards (HNG 13)_
@@ -68,6 +67,7 @@ Implements the **Audiophile** Figma design exactly, across mobile, tablet, and d
 ---
 
 ## Project Structure
+
 ```
 
 app/
@@ -91,17 +91,18 @@ lib/
 ├── totals.ts
 └── products.ts
 
-````
+```
 
 ---
 
 ## Local Setup
 
 ### Clone the repository
+
 ```bash
 git clone https://github.com/<your-username>/audiophile-ecommerce.git
 cd audiophile-ecommerce
-````
+```
 
 ### Install dependencies
 
